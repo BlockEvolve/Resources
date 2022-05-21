@@ -1,3 +1,10 @@
+Intent of this list is to act as Online bookmarks/lookup table for freely available resources.<br>
+# Disclaimer:
+The links have been taken from publicly available websites. If you are the owner and your reference to be removed from the list, please raise an issue with details.
+
+# Contribution:
+If you would like to contribute to the list, you are most welcome to raise an issue with relevant details
+
 # General Resources
 
 ## Bitcoin-specific Resources
