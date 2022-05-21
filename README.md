@@ -5,10 +5,11 @@ The links have been taken from publicly available websites. If you are the owner
 # Contribution:
 If you would like to contribute to the list, you are most welcome to raise an issue with relevant details
 
-# General Resources
-
-## Bitcoin-specific Resources
-
+## General Resources
+<details>
+  <summary>Bitcoin</summary>
+  
+  
 [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
 
 The 9-page paper written by Satoshi Nakamoto that started it all.
@@ -249,7 +250,11 @@ If you are serious about understanding Bitcoin and why it is creating a monetary
 
 The Bullish Case for Bitcoin, first published as a long-form article, represents an intellectual tour de force delivered with elegance and prescience by a polymath well-versed in mathematics, computer science, economics, philosophy, and engineering. After March 2020, it was evident to the author that the world needed a new money based on technology. However, in February 2018, when Boyapati first published his paper, this insight required much greater perspicacity, courage, and conviction.
 
-## Blockchain & Crypto
+</details>
+
+<details>
+  <summary>Blockchain & Crypto</summary>
+  
 
 [Blockchain Basics: A non-technical introduction in 25 steps](https://www.amazon.com/Blockchain-Basics-Non-Technical-Introduction-Steps-ebook/dp/B06XNWF5GP/ref=sr_1_3?dchild=1&keywords=blockchain+basics&qid=1614975489&sr=8-3) by Daniel Drescher
 
@@ -266,9 +271,13 @@ Financial journalist and cryptocurrency expert Camila Russo details the wild and
 [Cryptoassets: The Innovative Investor's Guide to Bitcoin and Beyond](https://www.amazon.com/Cryptoassets-Innovative-Investors-Bitcoin-Beyond/dp/1260026671) by [Chris Burniske](https://twitter.com/cburniske)
 
 This clear, concise, and accessible guide from two industry insiders shows you how to navigate this brave new blockchain world and how to invest in these emerging assets to secure your financial future.
+  
+</details>
 
-## Money, Banking, Economics, and Big Picture Ideas
-
+<details>
+  <summary>Money, Banking, Economics, and Big Picture Ideas</summary>
+  
+ 
 [The Price of Tomorrow: Why Deflation is the Key to an Abundant Future](https://www.amazon.com/Price-Tomorrow-Deflation-Abundant-Future-ebook/dp/B08334WFSQ/ref=sr_1_1?dchild=1&keywords=the+price+of+tomorrow&qid=1614628214&sr=8-1) by [Jeff Booth](https://twitter.com/JeffBooth)
 
 In this extraordinary contrarian book, Jeff Booth, a leading mind and CEO in e-commerce and technology for 20 years, details the technological and economic realities shaping our present and our future, and the choices we face as we go forward—a potentially alarming, but deeply hopeful situation.
@@ -347,10 +356,13 @@ In this book, Stephanie Kelton lays out the case for Modern Monetary Theory (MMT
 
 Charlie Munger famously said “I never allow myself to have an opinion on anything that I don’t know the other side’s argument better than they do.” Well, if you are a bitcoiner, the modern monetary theorists are the “other side.”
 
-# Podcasts
+   
+</details>
 
-## Shows
-
+<details>
+  <summary>Podcasts, Shows</summary>
+  
+ 
 [The Pomp Podcast](https://anthonypompliano.com/podcast/) with [Anthony Pompliano](https://twitter.com/APompliano)
 
 One of the most popular podcasts in business and investing, host Anthony “Pomp” Pompliano talks to the most interesting people in business, finance, and Bitcoin. From billionaires to cultural icons, Pomp helps you get smarter every day.
@@ -410,8 +422,6 @@ Citadel Dispatch is an interactive show about bitcoin, distributed systems, priv
 [BTC Sessions](https://www.youtube.com/c/BTCSessions/featured)
 
 BTC Sessions is geared towards helping you understand Bitcoin. Get the tutorials on wallets, hardware, security, exchanges, and much more, as well as the latest news and industry interviews.
-
-## Selected Podcast Episodes & Series
 
 [The Beginner's Guide to Bitcoin Series](https://www.whatbitcoindid.com/the-beginners-guide-to-bitcoin)
 
@@ -554,8 +564,12 @@ BTC Sessions is geared towards helping you understand Bitcoin. Get the tutorials
 This course, taught by SEC Chairman and MIT professor Gary Gensler, is for students wishing to explor blockchain technology’s potential use – by entrepreneurs and incumbents – to change the world of money and finance. The course begins with a review of Bitcoin and an understanding of the commercial, technical, and public policy fundamentals of blockchain technology, distributed ledgers, and smart contracts. The class then continues on to current and potential blockchain applications for the financial sector.
 
 [Bitcoiner Book Club](https://www.youtube.com/playlist?list=PL8GxRkxnvMl3_O3DYNQJFnVBvvt8A9qqW) - [John Vallis](https://twitter.com/johnkvallis)
+   
+</details>
 
-# Articles & Blog posts
+<details>
+  <summary>Articles & Blog posts</summary>
+  
 
 There have been so many amazing articles and blog posts written about Bitcoin & crypto that it would be simply impossible to try to link to all of them here. Some of the best are listed below.
 
@@ -603,9 +617,11 @@ Pretty much anything written by [Robert Breedlove](https://twitter.com/Breedlove
 
 Pretty much anything that [Lyn Alden](https://twitter.com/LynAldenContact) writes about bitcoin, including: [3 Reasons I'm Investing in Bitcoin](https://www.lynalden.com/invest-in-bitcoin/), [7 Misconceptions About Bitcoin](https://www.lynalden.com/misconceptions-about-bitcoin/), [Bitcoin: Addressing the Ponzi Scheme Characterization](https://www.lynalden.com/bitcoin-ponzi-scheme/), [Analyzing Bitcoin's Network Effect](https://www.lynalden.com/bitcoins-network-effect/)
 
-# 
+</details>
 
-# Email Newsletters
+<details>
+  <summary>Email Newsletters</summary>
+  
 
 [The Pomp Letter](https://pomp.substack.com/) by [Pomp](https://twitter.com/APompliano)
 
@@ -644,3 +660,6 @@ This course is for you :)
 [Pomp Crypto Jobs Newsletter](https://pompcryptojobs.us1.list-manage.com/subscribe?u=4caebc79ecd02f32f7b6e9550&id=dc1cc58413)Stay up to date on the latest news in crypto careers from the crypto industry’s best job board :)
 
 [Readwise](https://readwise.io/)A bit different from the other recommendations, Readwise is a daily email that resurfaces your best highlights from Kindle, Instapaper, iBooks, and more. Readwise makes it easy to revisit and learn from your ebook & article highlights.
+
+
+</details>
