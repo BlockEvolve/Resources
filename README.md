@@ -663,3 +663,36 @@ This course is for you :)
 
 
 </details>
+
+<details>
+  <summary>Web 3.0</summary>
+  
+
+[Why Web3 matters](https://future.a16z.com/why-web3-matters/) Web3 offers a new way that combines the best aspects of the previous eras. It’s very early in this movement and a great time to get involved.
+
+
+  
+</details>
+
+<details>
+  <summary>Ethereum, Smart Contracts, Dapps, Decentralisation</summary>
+  
+
+[What are Dapps](https://ethereum.org/en/developers/docs/dapps/) A decentralized application (Dapp) is an application built on a decentralized network that combines a smart contract and a frontend user interface. Read more about it here!
+
+[Tokenomics](https://hackernoon.com/designing-a-token-economy-how-to-choose-an-economic-goal-224b2643576a) What is a Token Economy and How to Design a Thriving Cryptocurrency
+  
+[What is Ethereum](https://ethereum.org/en/what-is-ethereum/) - Ethereum provides a way to make applications on the blockchain. Let’s understand what Ethereum is.
+
+  
+</details>
+
+<details>
+  <summary>NFT</summary>
+  
+
+
+
+  
+</details>
+  
